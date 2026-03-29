@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(xxd \"d:/Dropbox/Dana''''s Amiga Files/ww_to_docx/samples/Autobio2.TXT\")",
-      "Bash(xxd \"d:/Dropbox/Dana''''s Amiga Files/ww_to_docx/samples/Compiled Poems 1\")",
-      "Read(//d/Dropbox/Dana's Amiga Files/ww_to_docx/**)"
-    ]
-  }
-}
