@@ -71,3 +71,10 @@ Thumbs.db
 
 .claude
 .claude/
+
+# Ignore samples, design docs, personal output, and workflow folders
+samples/
+HANDOFF.md
+destination/Dana_text_recovered/
+source/
+.github/workflows/
