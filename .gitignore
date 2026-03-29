@@ -69,6 +69,5 @@ poetry.lock
 .DS_Store
 Thumbs.db
 
-# Ignore samples and design docs
-samples/
-HANDOFF.md
+.claude
+.claude/
