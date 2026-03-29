@@ -46,8 +46,20 @@ You can also import and use the conversion functions (`render_txt`, `render_docx
 - No Amiga emulator or special hardware required.
 - Only standard Python libraries and the above dependencies are used.
 
+
 ## License
 This project is provided as-is, with no warranty. See source code for details.
+
+---
+
+## Third-Party Licenses
+
+- **python-docx** © 2009–2026, MIT License
+	- https://github.com/python-openxml/python-docx
+- **tkinterdnd2** © Eliav2/pmgagne, Public Domain
+	- https://github.com/Eliav2/tkinterdnd2
+
+Both libraries are permissively licensed for commercial and non-commercial use.
 
 ---
 
