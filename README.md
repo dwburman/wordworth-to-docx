@@ -5,7 +5,7 @@ A tool for converting Amiga Wordworth (IFF WORD/WOWO) files to modern .docx (Wor
 ---
 
 ## Project by Dana Burman
-Vibe-coded with AI assistance (GitHub Copilot, GPT-4.1)
+Vibe-coded with AI assistance (Probably Claude)
 
 ---
 
@@ -65,4 +65,4 @@ Both libraries are permissively licensed for commercial and non-commercial use.
 
 ## Credits
 - Project by Dana Burman
-- Vibe-coded with AI (GitHub Copilot, GPT-4.1)
+- Vibe-coded with AI (Probably Claude)
